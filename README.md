@@ -1,6 +1,6 @@
 ESTIMATION OF THE HUBBLE CONSTANT AND THE AGE OF UNIVERSE USING TYPE LA SUPERNOVAE DATA
 
-The goal of this project was to estimate the Hubble constant (H₀) and the age of the universe using observational data from Type Ia Supernovae. The analysis was conducted using real data from the Pantheon+SH0ES dataset and involved applying cosmological principles and fitting models within the flat ΛCDM framework.
+The goal of this project was to estimate the Hubble constant (H₀) and the age of the universe using observational data from Type la Supernovae. The analysis was conducted using real data from the Pantheon+SH0ES dataset and involved applying cosmological principles and fitting models within the flat ΛCDM framework.
 
 Methodology
 
